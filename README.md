@@ -1,1 +1,1 @@
-# my-first-repo
+Hi, my name is Aaron Minaya. I am 23 years old. I live in New York City. I like to watch Youtube.
